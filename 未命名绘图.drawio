@@ -120,9 +120,6 @@
             <mxPoint x="-10" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jBBNYD9r21W8MT57e3XB-49" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="350" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="jBBNYD9r21W8MT57e3XB-50" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;MCP-模型上下文协议框架&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="244" y="90" width="336" height="50" as="geometry" />
         </mxCell>
